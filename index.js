@@ -14,5 +14,8 @@ function run (opts) {
 module.exports = run
 
 if (require.main === module) {
-  importDashboard(importDashboard._parseArgs(process.argv.slice(2)))
+  const args = process.argv.slice(2)
+  args.push('-c')
+  args.push(path.join(__dirname, 'dashboard.json'))
+  importDashboard(importDashboard._parseArgs(args))
 }
