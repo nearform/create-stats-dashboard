@@ -2,7 +2,6 @@
 
 'use strict'
 
-const minimist = require('minimist')
 const path = require('path')
 const importDashboard = require('import-kibana-dashboard')
 
