@@ -1,5 +1,5 @@
 {
-  "name": "create-stats-dashboard",
+  "name": "@nearform/create-stats-dashboard",
   "version": "0.0.0",
   "description": "Script to create the stats kibana dashboard needed",
   "main": "index.js",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/nearform/create-stats-dashboard/issues"
   },
-  "homepage": "https://github.com/nearform/create-stats-dashboard#readme"
+  "homepage": "https://github.com/nearform/create-stats-dashboard#readme",
+  "dependencies": {
+    "import-kibana-dashboard": "^1.0.0"
+  }
 }

@@ -1,6 +1,6 @@
 # create-stats-dashboard
 
-A wrapper to create and initialise a stats dashboard on kibana using [import-kibana-dashboard][http://github.com/nearform/import-kibana-dashboard], for easy manipulation of [stats][http://github.com/nearform/stats] sent via [stats-to-elasticsearch][http://github.com/nearform/stats-to-elasticsearch]
+A wrapper to create and initialise a stats dashboard on kibana using [import-kibana-dashboard](http://github.com/nearform/import-kibana-dashboard), for easy manipulation of [stats](http://github.com/nearform/stats) sent via [stats-to-elasticsearch](http://github.com/nearform/stats-to-elasticsearch)
 
 ## installation
 ```
