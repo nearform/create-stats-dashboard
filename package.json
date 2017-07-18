@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "import-stats-dashboard": "index.js"
+    "create-stats-dashboard": "index.js"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/nearform/create-stats-dashboard#readme",
   "dependencies": {
-    "import-kibana-dashboard": "^1.0.0"
+    "import-kibana-dashboard": "^1.0.1"
   }
 }
