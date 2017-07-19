@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/nearform/create-stats-dashboard#readme",
   "dependencies": {
-    "import-kibana-dashboard": "^1.0.1"
+    "import-kibana-dashboard": "^1.1.0"
   }
 }
