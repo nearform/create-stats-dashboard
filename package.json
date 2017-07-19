@@ -1,6 +1,6 @@
 {
   "name": "@nearform/create-stats-dashboard",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Script to create the stats kibana dashboard needed",
   "main": "index.js",
   "scripts": {
